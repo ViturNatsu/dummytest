@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Project"
         tools:targetApi="34">
         <activity
+            android:name=".dyummy"
+            android:exported="false" />
+        <activity
             android:name=".RegisterPage"
             android:exported="false" />
         <activity
